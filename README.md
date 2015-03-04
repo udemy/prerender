@@ -187,7 +187,7 @@ You'll need to sign up with Amazon Web Services and export these 3 environment v
 ```
 $ export AWS_ACCESS_KEY_ID=<aws access key>
 $ export AWS_SECRET_ACCESS_KEY=<aws secret access key>
-$ export S3_BUCKET_NAME=<bucket name>
+$ export SEO_S3_BUCKET_NAME=<bucket name>
 ```
 
 Warning! Your keys should be kept private and you'll be charged for all files uploaded to S3.
